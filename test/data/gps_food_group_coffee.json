@@ -1,0 +1,15 @@
+{
+    "title": "西雅圖咖啡館特輯",
+    "brief": "",
+    "group_id": 2,
+    "images": [
+        {
+            "image_url": "/img/foods/seattlecafe.jpg",
+            "caption": ""
+        }
+    ],
+    "tags": ["food", "collection"],
+    "gpslink": "http://seattle-gps.com/seattlecafe/",
+    "highlighted": 1,
+    "order": 10 
+}

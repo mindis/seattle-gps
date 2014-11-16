@@ -1,0 +1,10 @@
+<template name="foodItem">
+  <a class="item-recipe {{highlightedClass}}" href="{{path}}" target="_blank">
+    {{#with food}}
+      <span class="attribution">
+        <span class="title-recipe">{{title}}</span>
+      </span>
+    {{/with}}
+    <img src="{{postImage post=food}}" />
+  </a>
+</template>

@@ -5,13 +5,19 @@
     "address": "4237 University Way NE, Seattle, Washington 98105",
     "images": [
         {
-            "image_url": "http://seattle-gps.com/wp-content/uploads/2014/03/China-First-%E5%B9%B2%E9%94%85%E5%9C%9F%E8%B1%86-1024x678.jpg",
+            "image_url": "/img/foods/chinafirst-1.jpg",
+            "caption": "China First - 香辣蟹"
+        },
+        {
+            "image_url": "/img/foods/chinafirst-2.jpg",
             "caption": "China First - 幹鍋五花肉土豆片"
         },
         {
-            "image_url": "http://seattle-gps.com/wp-content/uploads/2014/03/China-First-%E6%9C%A8%E8%80%B3%E7%82%92%E5%B1%B1%E8%8D%AF-1024x678.jpg",
+            "image_url": "/img/foods/chinafirst-3.jpg",
             "caption": "china first - 木耳山藥"
         }
     ],
-  "tags": ["food", "review"]
+    "tags": ["food", "review"],
+    "gpslink": "http://seattle-gps.com/china-first/",
+    "order": 7
 }

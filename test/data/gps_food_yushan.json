@@ -5,9 +5,11 @@
     "address": "14553 Bothell Way NE, Seattle, WA 98155",
     "images": [
         {
-            "image_url": "http://seattle-gps.com/wp-content/uploads/2014/05/Yushan-300x198.jpg",
+            "image_url": "/img/foods/yushan.jpg",
             "caption": "御膳 (image: SCT)"
         }
     ],
-  "tags": ["food", "review"]
+  "tags": ["food", "review"],
+  "gpslink": "http://seattle-gps.com/chinese-breakfast/",
+  "order": 3
 }
