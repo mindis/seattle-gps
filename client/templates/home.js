@@ -1,4 +1,4 @@
-var FEATURED_COUNT = 4;
+var FEATURED_COUNT = 8;
 
 Template.home.helpers({
   // selects FEATURED_COUNT number of recipes at random
