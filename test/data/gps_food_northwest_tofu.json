@@ -1,0 +1,19 @@
+{
+    "title": "西北豆品小吃",
+    "name": "西北豆品小吃",
+    "brief": "位於國際區頂端的西北豆品小吃在西雅圖頗富盛名，其豆品類的餐點幾乎讓每位品嚐過的顧客讚不絕口。在美國，尤其是西雅圖地區，做燒餅油條、豆漿、豆腐的早餐店其實為數不多，而做得好吃的更是寥寥無幾，西北豆品小吃便是值得推薦的中式早點餐廳之一。",
+    "body": "西北豆品最出名的即是它的豆漿──喝一口便能嚐到濃濃的豆味，且甜度剛好。而鹹豆漿更是料多味美。配上中式早餐必備的燒餅油條，絕對是最佳拍擋。而值得一提的，西北豆品的油條炸得很酥很脆，金黃色的色澤令人垂涎欲滴，來店享用早點的顧客務必點上一份嚐嚐。 椒鹽豆腐則是這裡的招牌菜，酥脆的外皮內是香嫩的豆腐，脆與嫩的雙重口感，在咬下的那瞬間化在嘴裡，只要對美食講究的食客，一定不能錯過西北豆品這道經典菜色。",
+    "address": "1911 S Jackson Street, Seattle, WA, 98144",
+    "images": [
+        {
+            "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/V0odTfD_Q-fOhWyCqb0Q0w/l.jpg",
+            "caption": "西北豆品小吃 - 椒鹽豆腐 (image: Yelp)"
+        },
+        {
+            "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/UxhDXnG2UYc838mNTQoFJA/l.jpg",
+            "caption": "西北豆品小吃- 鹹豆漿 (image: Yelp)"
+        }
+    ],
+    "parent_group_ids": [1],
+    "tags": ["food", "review"]
+}
