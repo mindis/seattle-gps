@@ -22,6 +22,10 @@ Meteor.publish('recipe', function(name) {
   ];
 });
 
+Meteor.publish('posts', function() {
+  return Posts.find();
+});
+
 // autopublish the user's bookmarks and admin status
 Meteor.publish(null, function() {
   return Meteor.users.find(this.userId, {
