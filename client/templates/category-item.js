@@ -1,11 +1,5 @@
 Template.categoryItem.helpers({
   path: function () {
-    return Router.path('recipe', this.recipe);
+    return Router.path('category', this.category['name']);
   },
-  
-  highlightedClass: function () {
-    if (this.size === 'large')
-      return 'highlighted';
-  },
-  
 });

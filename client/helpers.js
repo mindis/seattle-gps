@@ -31,10 +31,8 @@ UI.registerHelper('recipeImage', function(options) {
 });
 
 UI.registerHelper('categoryImage', function(options) {
-  var size = options.hash.size || 'large';
-
-  if (options.hash.recipe)
-    return '/img/recipes/' + DIMENSIONS[size] + '/' + options.hash.recipe.name + '.jpg';
+  if (options.hash.category)
+    return options.hash.category.url;
 });
 
 Handlebars.registerHelper('activePage', function() {

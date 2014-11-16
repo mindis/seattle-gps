@@ -11,12 +11,11 @@
       </div>
 
       <div class="list-category">
-        {{#each featuredRecipes}}
-          {{> categoryItem recipe=this size='small'}}
+        {{#each featuredCategories}}
+          {{> categoryItem category=this}}
         {{/each}}
       </div>
 
-      <a href="{{pathFor 'recipes'}}" class="btn-primary">Explore all our recipes</a>
     </div>
 
   </div>

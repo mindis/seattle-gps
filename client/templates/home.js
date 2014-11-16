@@ -11,6 +11,11 @@ Template.home.helpers({
 
     return selection;
   },
+
+  featuredCategories: function() {
+    var categories = _.values(CategoryData);
+    return categories; 
+  },
   
   activities: function() {
     return Activities.latest();
