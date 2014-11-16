@@ -30,6 +30,13 @@ UI.registerHelper('recipeImage', function(options) {
     return '/img/recipes/' + DIMENSIONS[size] + '/' + options.hash.recipe.name + '.jpg';
 });
 
+UI.registerHelper('categoryImage', function(options) {
+  var size = options.hash.size || 'large';
+
+  if (options.hash.recipe)
+    return '/img/recipes/' + DIMENSIONS[size] + '/' + options.hash.recipe.name + '.jpg';
+});
+
 Handlebars.registerHelper('activePage', function() {
   // includes Spacebars.kw but that's OK because the route name ain't that.
   var routeNames = arguments;

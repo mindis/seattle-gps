@@ -1,0 +1,11 @@
+<template name="categoryItem">
+  <a class="item-category {{highlightedClass}}" href="{{path}}">
+    {{#with recipe}}
+      <span class="attribution">
+        <span class="title-category">{{title}}</span>
+      </span>
+    {{/with}}
+
+    <img src="{{categoryImage recipe=recipe size=size}}" />
+  </a>
+</template>
