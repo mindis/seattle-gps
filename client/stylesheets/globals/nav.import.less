@@ -1,7 +1,7 @@
 nav {
   .position(absolute, 0, 0, auto, 0, 100%, 3em);
   .transform(translate3d(0,0,0));
-  .transition( all 200ms ease-out );
+  .transition( all 100ms ease-out );
   background: rgba(0,0,0,.97);
   text-align: center;
   z-index: 10;
@@ -12,27 +12,29 @@ nav {
 
     .nav-item {
       color: @color-empty;
+
     }
 
     // Gradient over image to give nav contrast, extends past nav boundaries
     &:after {
-      .background-image(linear-gradient(top, rgba(0,0,0,.30), rgba(0,0,0,0) 100%));
-      .position(absolute, 0, 0, auto, 0, 100%, 3.5em);
+      .background-image(linear-gradient(top, rgba(0,0,0,.30), rgba(0,0,0,.30) 100%));
+      .position(absolute, 0, 0, auto, 0, 100%, 3em);
       content: '';
       z-index: -1;
     }
   }
 
   &.scrolled {
-    background: rgba(0,0,0,.97);
-    color: @color-full;
+    background: rgba(0,0,0,.30);
+    color: rgba(255,255,255,.9);
+    .transition( all 0ms ease-out );
 
     &:after { opacity: 0; }
-    .nav-item { color: @color-empty; }
+    .nav-item { color: @color-full; }
   }
 
   .title-page {
-    .font-s3;
+    .font-m1;
     .type-chinese;
     .type-secondary;
     .title-caps;
