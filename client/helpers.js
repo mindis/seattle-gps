@@ -23,6 +23,12 @@ var DIMENSIONS = {
   full: '640x800'
 };
 
+UI.registerHelper('postImage', function(options) {
+  if (options.hash.post)
+    return options.hash.post['images'][0]['image_url']
+    // return "mock.jpg"
+});
+
 UI.registerHelper('recipeImage', function(options) {
   var size = options.hash.size || 'large';
 

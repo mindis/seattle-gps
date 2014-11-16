@@ -1,0 +1,15 @@
+{
+    "title": "纯正意面 Il Fornaio",
+    "name": "Il Fornaio",
+    "brief": "",
+    "address": "600 Pine St #132, Seattle, WA 98101",
+    "images": [
+        {
+            "image_url": "/img/foods/fornaio.jpg",
+            "caption": ""
+        }
+    ],
+  "tags": ["food", "review", "new"],
+  "gpslink": "http://seattle-gps.com/il-fornaio/",
+  "order": 8
+}

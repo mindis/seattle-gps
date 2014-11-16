@@ -1,0 +1,28 @@
+{
+    "title": "Ten Sushi 回轉壽司新定義",
+    "name": "Ten Sushi 回轉壽司",
+    "brief": "Ten Sushi的特色是用料新鮮製作講究和超大片生魚壽司，足有十多公分長！芥末和薑片也都是自家新鮮製作，他們家還有拉麵，湯底也是由雞湯熬制兩天而成。老闆兼主廚對選料，製作，烹飪，擺盤每一步都精益求精，最後呈現給食客最高品質的享受。",
+    "address": "500 Mercer St #2b Seattle, WA 98109",
+    "images": [
+         {
+            "image_url": "/img/foods/tensushi-2.jpg",
+            "caption": "蒜烤三文鱼壽司 Garlic Seared King Salmon"
+        },
+        {
+            "image_url": "/img/foods/tensushi-3.jpg",
+            "caption": "三文鱼壽司 GSalmon Nigiri"
+        },
+        {
+            "image_url": "/img/foods/tensushi-5.jpg",
+            "caption": "金槍魚楠壽司 GFatty Tuna Nigiri"
+        },
+        {
+            "image_url": "/img/foods/tensushi-1.jpg",
+            "caption": "店長兼主廚 Mr. Takahashi"
+        }
+    ],
+  "tags": ["food", "review"],
+  "gpslink": "http://seattle-gps.com/ten-sushi-%E5%9B%9E%E8%BD%AC%E5%AF%BF%E5%8F%B8%E6%96%B0%E5%AE%9A%E4%B9%89/",
+  "highlighted": 1,
+  "order": 5
+}

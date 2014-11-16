@@ -1,5 +1,5 @@
 Template.categoryItem.helpers({
   path: function () {
-    return Router.path('category', this.category['name']);
+    return Router.path(this.category['name'].toLowerCase());
   },
 });

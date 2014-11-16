@@ -3,21 +3,22 @@
     "name": "點心皇 Dim Sum King",
     "brief": "位在南積臣街繁華地帶的點心皇，在西雅圖港式點心店裡佔有一定的地位。點心皇以便宜又實惠的價格，吸引不少熱愛港式點心的食客。 很多時候，想要吃港式點心必需要到茶餐廳裡坐下來堂食，但點心皇提供的，是可以帶著走的點心，而且可以以「單個」購買，一個點心的價格大約在0.66元左右。雖然價格便宜，但也沒有因此讓食物的多樣性與美味打折，故每到早上或中午時分，總是門庭若市。 點心皇的早點提供皮蛋瘦肉粥、蛋塔、廣式大包、叉燒包、各式腸粉等等。皮蛋瘦肉粥清淡不膩，且份量充足，價格便宜。蛋塔更是有「華埠最好吃的蛋塔」之美譽，味道香濃且不過甜。而大包的餡料亦不因為低廉的售價而受到影響，反而誠意十足。由於價格確實便宜，點心皇的皮蛋瘦肉粥總是一下子便售罄，想要嚐嚐平價美味的顧客一定要早點去買，以免向隅。",
     "address": "617 S Jackson St, Seattle, WA 98104",
-    "website": "http://www.yelp.com/biz/a-and-b-cafe-seattle",
     "images": [
         {
-            "image_url": "http://seattle-gps.com/wp-content/uploads/2014/05/dimsumking-300x225.jpg",
+            "image_url": "/img/foods/dimsum-1.jpg",
             "caption": "點心皇多樣早餐選擇 (image: SCT)"
         },
         {
-            "image_url": "http://seattle-gps.com/wp-content/uploads/2014/05/photo-1_ed.jpg",
+            "image_url": "/img/foods/dimsum-2.jpg",
             "caption": "點心皇 - 蒸包子 (image: SCT)"
         },
-	{
-            "image_url": "http://seattle-gps.com/wp-content/uploads/2014/05/photo-2_ed.jpg",
+	      {
+            "image_url": "/img/foods/dimsum-3.jpg",
             "caption": "點心皇 - 蛋撻 (image: SCT)"
         }
     ],
-    "parent_group_ids": [1],
-  "tags": ["food", "review"]
+  "parent_group_ids": [1],
+  "tags": ["food", "review"],
+  "gpslink": "http://seattle-gps.com/chinese-breakfast/",
+  "order": 2
 }

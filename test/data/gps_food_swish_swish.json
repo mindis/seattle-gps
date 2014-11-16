@@ -2,18 +2,18 @@
     "title": "正宗台灣味  火鍋健康吃 ── Swish Swish台灣風味火鍋店",
     "name": " Swish Swish 樂洵台灣風味火鍋店",
     "brief": "身為居住在西雅圖的華人，有沒有想過一個問題：整個北美西岸各大城市中，如洛杉磯、舊金山、溫哥華等，為什麼獨獨西雅圖找不到真真地道且讓人滿意的中式餐點，尤其是台式火鍋？而樂洵台灣風味火鍋店（Swish Swish）讓癡癡盼望著能大啖正宗台式火鍋的饕客終於能得償所願。",
-    "body": "身為居住在西雅圖的華人，有沒有想過一個問題：整個北美西岸各大城市中，如洛杉磯、舊金山、溫哥華等，為什麼獨獨西雅圖找不到真真地道且讓人滿意的中式餐點，尤其是台式火鍋？而樂洵台灣風味火鍋店（Swish Swish）讓癡癡盼望著能大啖正宗台式火鍋的饕客終於能得償所願。",
     "address": "14603 NE 20the St., Ste 5C, Bellevue, WA 98007",
-    "website": "http://www.swish-swish.com/",
     "images": [
         {
-            "image_url": "http://seattle-gps.com/wp-content/uploads/2014/06/IMG_2932top.jpg",
+            "image_url": "/img/foods/swish-1.jpg",
             "caption": "Swish Swish 新鮮火鍋肉"
         },
         {
-            "image_url": "http://seattle-gps.com/wp-content/uploads/2014/06/IMG_2935top.jpg",
-            "caption": "Swish Swish老闆丁懿辰（Brandon Ting"
+            "image_url": "/img/foods/swish-2.jpg",
+            "caption": "Swish Swish老闆丁懿辰 (Brandon Ting)"
         }
     ],
-  "tags": ["food", "review"]
+  "tags": ["food", "review"],
+  "gpslink": "http://seattle-gps.com/swishswish/",
+  "order": 6
 }

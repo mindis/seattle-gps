@@ -1,0 +1,13 @@
+{
+    "title": "CaféAllegro",
+    "brief": "",
+    "images": [
+        {
+            "image_url": "/img/foods/cafeallegro.jpg",
+            "caption": ""
+        }
+    ],
+    "gpslink": "http://seattle-gps.com/seattlecafe/",
+    "address": "4214 University Way NE, Seattle",
+    "order": 14
+}
